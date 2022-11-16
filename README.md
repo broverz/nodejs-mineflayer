@@ -1,7 +1,7 @@
 # nodejs-mineflayer
 npm init -y
 
-npm isntall mineflayer
+npm install mineflayer
 
 change host
 
